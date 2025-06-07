@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaggu
-- 👀 I’m interested in Ai and cloud 
-- 🌱 I’m currently learning m.tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me sailojnpradhan@gmail.com
+- 👀 I’m working for Accenture as an associate Network Engineer, and interested in Ai and cloud 
+- 🌱 I’m currently pursuing m.tech in Cloud Computing and Infrastucture Management from BITS Pilani.
+- 💞 I’m looking to collaborate on ...
+- 📫 reach me sailojnpradhan1@gmail.com
 
 <!---
 jaggu/jaggu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
